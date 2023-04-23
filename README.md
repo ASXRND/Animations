@@ -17,7 +17,8 @@ An iOS application/project, that contains various classes/tutorials for effects,
 -------------------     ----------------------------
 ## Animations
 
-<img src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="300"> 
+<img align="left" src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="200" height="400"> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
 ## Languages / Frameworks Used
 - Swift 5
