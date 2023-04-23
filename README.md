@@ -14,7 +14,7 @@ An iOS application/project, that contains various classes/tutorials for effects,
 
 
 
-<img src="https://github.com/ASXRND/Animations/blob/master/project.gif" width="300"> 
+<img src="https://github.com/ASXRND/Animations/blob/master/GifProject/project.gif" width="300"> 
  
 ## Languages / Frameworks Used
 - Swift 5
